@@ -1,0 +1,9 @@
+[submodule "gnome-control-center-nocheese"]
+	path = gnome-control-center-nocheese
+	url = https://aur.archlinux.org/gnome-control-center-nocheese.git
+[submodule "libwacom-surface"]
+	path = libwacom-surface
+	url = https://aur.archlinux.org/libwacom-surface.git
+[submodule "x86_64"]
+	path = x86_64
+	url = git@github.com:SamLukeYes/repo-x86_64.git
