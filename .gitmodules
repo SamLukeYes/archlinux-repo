@@ -7,3 +7,6 @@
 [submodule "x86_64"]
 	path = x86_64
 	url = git@github.com:SamLukeYes/repo-x86_64.git
+[submodule "power-profiles-daemon"]
+	path = power-profiles-daemon
+	url = https://aur.archlinux.org/power-profiles-daemon.git
