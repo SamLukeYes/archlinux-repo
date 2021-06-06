@@ -2,9 +2,9 @@
 [SamLukeYes]
 # Direct download 
 Server = https://github.com/SamLukeYes/repo-$arch/raw/master/
-# CDN accelerated
+# CDN accelerated (database might be outdated)
 Server = https://cdn.jsdelivr.net/gh/SamLukeYes/repo-$arch
 ```
 GPG Key ID: 5574FF7A0C9AC292
 
-If your CDN cache is outdated, click [here](https://purge.jsdelivr.net/gh/SamLukeYes/repo-x86_64/SamLukeYes.db) to refresh it.
+If you only use the CDN server, click [here](https://purge.jsdelivr.net/gh/SamLukeYes/repo-x86_64/SamLukeYes.db) to refresh the CDN cache before checking updates.
