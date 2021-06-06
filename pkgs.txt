@@ -1,3 +1,0 @@
-gnome-control-center-nocheese
-libwacom-surface
-power-profiles-daemon
