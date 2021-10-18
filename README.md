@@ -1,10 +1,10 @@
 ```ini
 [SamLukeYes]
-# Direct download 
+# GitHub
 Server = https://github.com/SamLukeYes/repo-$arch/raw/master/
-# Reverse proxy (for mainland China)
+# FastGit (Reverse proxy of GitHub in England)
 Server = https://hub.fastgit.org/SamLukeYes/repo-$arch/raw/master/
-# CDN accelerated (database might be outdated)
+# jsDelivr (Global CDN, cached database may be outdated)
 Server = https://cdn.jsdelivr.net/gh/SamLukeYes/repo-$arch/
 ```
 
